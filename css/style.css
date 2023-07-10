@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+/* HEADER */
+
+/* immagini intestazione */
+.img-heading {
+    height: 180px;
+    background-image: url('../img/pattern.png');
+    background-color: #4EA0FF;
+}
+
+.logo img{
+width: 300px;
+padding: 20px;
+margin-top: 70px;
+}
+
+
