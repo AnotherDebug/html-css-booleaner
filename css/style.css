@@ -62,7 +62,7 @@ ul {
 table {
     width: 100%;
     border-spacing: 0px;
-    margin: 0;
+    margin-top: 20px;
 }
 
 .small {
@@ -84,3 +84,37 @@ thead {
 }
 
 /* FOOTER */
+
+footer{
+    margin-top: 40px;
+}
+
+footer p{
+    color: gray;
+    font-weight: 800;
+}
+
+.first-img p {
+    background-image: url('../img/monitor.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 312px;
+    height: 190px;
+    padding: 20px;
+}
+
+.second-img p {
+    margin-top: 5px;
+    background-image: url('../img/graph.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    font-size: 140%;
+    font-weight: normal;
+    text-align: left;
+    width: 312px;
+    height: 190px;
+    padding: 20px;
+}
