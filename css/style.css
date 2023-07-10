@@ -1,6 +1,7 @@
-*{
+* {
     margin: 0;
 }
+
 /* HEADER */
 
 /* immagini intestazione */
@@ -10,10 +11,76 @@
     background-color: #4EA0FF;
 }
 
-.logo img{
-width: 300px;
-padding: 20px;
-margin-top: 70px;
+.logo img {
+    width: 300px;
+    padding: 20px;
+    margin-top: 70px;
+}
+
+/* Contenitore */
+.container {
+    padding: 20px;
 }
 
 
+/* MAIN */
+/* Section Presentation */
+/* Autore del sito */
+.author {
+    color: rgb(128, 128, 128);
+    font-weight: 600;
+}
+
+.author span {
+    color: #2279dc;
+}
+
+.img {
+    margin-top: 20px;
+}
+
+.presentation p {
+    font-size: 10px;
+}
+
+/* Section Text */
+.text {
+    margin-top: 20px;
+}
+
+/* Section List */
+.list {
+    margin-top: 20px;
+}
+
+ul {
+    padding-left: 15px;
+    ;
+}
+
+/* Section Table */
+table {
+    width: 100%;
+    border-spacing: 0px;
+    margin: 0;
+}
+
+.small {
+    width: 20%;
+}
+
+.big {
+    width: 60%;
+}
+
+thead {
+    background-color: #2279dc;
+    text-align: left;
+    color: white;
+}
+
+.mark {
+    background-color: #B1E5F2;
+}
+
+/* FOOTER */
