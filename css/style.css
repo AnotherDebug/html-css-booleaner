@@ -43,10 +43,10 @@
     font-size: 10px;
 }
 
-/* Section Text */
+/* Section Text*/
 .text {
     margin-top: 20px;
-}
+} 
 
 /* Section List */
 .list {
@@ -81,15 +81,15 @@ thead {
 
 .mark {
     background-color: #B1E5F2;
-}
+} 
 
 /* FOOTER */
 
-footer{
+footer {
     margin-top: 40px;
 }
 
-footer p{
+footer p {
     color: gray;
     font-weight: 800;
 }
